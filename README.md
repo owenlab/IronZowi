@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<img src="images/bq-logo-human-right-technology.png" width="400" align="center">
+<img src="IMAGES/bq-logo-human-right-technology.png" width="400" align="center">
 </td>
 </tr>
 </table>
@@ -14,7 +14,7 @@ A Zowi robot mod inspired on Ironman suite
 
 
 <td>
-<img src="images/HEAD.jpg" width="400" align="center">
+<img src="IMAGES/HEAD.jpg" width="400" align="center">
 </td>
 
 ## BOM
@@ -47,7 +47,7 @@ Inspired on the awesome ZOWI MicroRider mod
 
 
 ## License
-<img src="images/by-sa.png" width="200" align = "center">
+<img src="IMAGES/by-sa.png" width="200" align = "center">
 
 This robot is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Please read the LICENSE files for more details.
 
