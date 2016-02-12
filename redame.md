@@ -6,21 +6,24 @@
 </tr>
 </table>
 
-# BRIAN  
-
-###(anagram of Brain )
-Robot based on the awesome work of Theo Jansen called Rhinoceros
+# Iron Zowi 
 
 
+A Zowi robot mod inspired on Ironman suite
+
+
+
+<td>
+<img src="images/HEAD.jpg" width="400" align="center">
+</td>
 
 ## BOM
-- 2 Geared motor DG02S [like this](http://www.robotshop.com/en/dagu-gear-motor-pair-offset-shaft.html)
-- 1 [Zum board](http://3d.bq.com/zum.html) or compatible Arduino/Genuino board with Bluetooth feature
-- 1 Battery
-- 3D printed parts
+TODO
 
 ## Files
-**basical measure**  is a Freecad drawing of the basic kinematic
+**CAD FOLDER**  Freecad source files
+
+**STL FOLDER**  STL files ready to print
 
 
 
@@ -37,10 +40,10 @@ TODO:
 
 Designed by Gianluca Pugliese [Owensource](https://www.owensource.com) for [BQ](https://www.bq.com)
 
-Inspired on the awesome Rhinoceros strandbeest
+Inspired on the awesome ZOWI MicroRider mod
 
-- [Theo Jansen on Wikipedia](https://es.wikipedia.org/wiki/Theo_Jansen)
-- [Strandbeest.com](http://www.strandbeest.com/)
+- [Zowi](https://github.com/bqlabs/zowi)
+- [Javier Isabel](https://github.com/JavierIH)
 
 
 ## License
